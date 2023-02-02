@@ -1,0 +1,27 @@
+.card {
+    width: 200px;
+    margin: 20px;
+}
+
+.card-image {
+    display: block;
+    width: 200px;
+    height: 150px;
+}
+
+.menu-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-custom{
+    width: 200px;
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-custom{
+    width: 150px;
+}
